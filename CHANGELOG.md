@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Bayzed-Meer/Angular-Template/compare/v1.0.0...v1.0.1) (2024-06-20)
+
+
+### Bug Fixes
+
+* **lint:** add lint runner in the husky file ([4707bb5](https://github.com/Bayzed-Meer/Angular-Template/commit/4707bb53bd54023f0877ae0eac58744bec7df357))
+
 # 1.0.0 (2024-06-11)
 
 
